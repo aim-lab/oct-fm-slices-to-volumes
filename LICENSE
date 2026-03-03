@@ -1,0 +1,29 @@
+Copyright (c) 2025 AIMLab
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, and distribute the Software **for academic research and
+educational purposes only**, subject to the following conditions:
+1. Non-Commercial Use 
+   The Software may not be used, in whole or in part, for any commercial
+   purpose, including but not limited to: 
+   - providing services for a fee, 
+   - incorporating the Software into a product for sale, 
+   - or use within any for-profit business or organization. 
+2. Attribution and Citation 
+   Any use of the Software must: 
+   - Give proper acknowledgment to the original authors and institution. 
+   - Cite the following publication(s) in any resulting work, presentation, or
+     derivative project: 
+     Judkiewicz, R. et al. "Shifting the paradigm from slices to volumes in retinal foundation models for optical coherence tomography."
+3. Warranty Disclaimer 
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+   THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+   OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+   ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+   OTHER DEALINGS IN THE SOFTWARE.
+4. Commercial Licensing 
+   For commercial use of the Software, please contact 
+   Joachim Behar at jbehar@technion.ac.il
+   to obtain a separate license agreement.
