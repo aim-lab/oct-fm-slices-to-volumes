@@ -2,7 +2,9 @@
 
 [![Python 3.11](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/)
 
-For methodological details and citation information, please refer to our [PAPER]():
+For methodological details and citation information, please refer to our [PAPER](https://www.nature.com/articles/s41746-026-02496-7):
+
+![concept](https://github.com/aim-lab/oct-fm-slices-to-volumes/blob/master/summarys.png?raw=true?as=webp)
 ## Overview
 
 This repository contains the code required to reproduce the experiments presented in our paper.
@@ -175,15 +177,13 @@ Users are responsible for:
 
 If you use this code, please cite our paper:
 
-<!-- ```bibtex
-@article{biton2023generalizable,
-  title={Generalizable and robust deep learning algorithm for atrial fibrillation diagnosis across geography, ages and sexes},
-  author={Biton, Shany and others},
-  journal={NPJ Digital Medicine},
-  volume={6},
-  number={1},
-  pages={44},
-  year={2023},
-  publisher={Nature Publishing Group}
+```bibtex
+@article{article,
+author = {Judkiewicz, Raphael and Berkowitz, Eran and Meisel, Meishar and Michaeli, Tomer and Behar, Joachim},
+year = {2026},
+pages = {},
+title = {Shifting the retinal foundation models paradigm from slices to volumes for optical coherence tomography},
+journal = {npj Digital Medicine},
+publisher={Nature Publishing Group},
 }
-``` -->
+```
