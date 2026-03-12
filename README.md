@@ -4,7 +4,7 @@
 
 For methodological details and citation information, please refer to our [PAPER](https://www.nature.com/articles/s41746-026-02496-7):
 
-![concept](https://github.com/aim-lab/oct-fm-slices-to-volumes/blob/master/Summarys.png?raw=true?as=webp)
+![concept](https://github.com/aim-lab/oct-fm-slices-to-volumes/blob/main/Summary.png?raw=true?as=webp)
 ## Overview
 
 This repository contains the code required to reproduce the experiments presented in our paper.
